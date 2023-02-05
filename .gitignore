@@ -1,3 +1,7 @@
-austria-id-key.pem
-austria-id-csr.pem
-austria-id-cert.pem
+digitales-amt-binding-uuid.txt
+digitales-amt-key.pem
+digitales-amt-csr.pem
+digitales-amt-cert.pem
+eAusweise-key.pem
+eAusweise-csr.pem
+eAusweise-cert.pem
