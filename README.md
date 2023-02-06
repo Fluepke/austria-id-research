@@ -11,3 +11,7 @@ Based on a reverse-analysis, the `./demo.py` script re-implements this procedure
 - The *eAusweise* backend API endpoints
 
 You will need some eIDAS compliant identity token during the process, such as the german national identity card.
+
+## Handysignatur
+
+Need a Handysignatur test account? [Here](https://www.a-trust.at/testidentitaetenmanagement) you can get a test account on the production infrastructure using an eIDAS identity token (such as the german ID card). On an iPhone, I logged into the *Digitales Amt* app using the "EU-Login" and then accessed the test identity management on my phone.
